@@ -1,0 +1,25 @@
+$ git init
+
+$ ls
+
+$ git Add BankCrud
+
+$ git commit -m "Commited" 
+
+$ git remote add origin https://github.com/modikshamahajan/ASDM.git
+
+$ git push -u origin master 
+
+$ git branch
+
+$ git branch asdmdemo
+
+$ git checkout asdmdemo
+
+$ git add CoreJava
+
+$ git commit -m "second commit"
+
+$ git push origin master 
+
+$ git merge asdmdemo
